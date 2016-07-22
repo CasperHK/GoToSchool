@@ -1,3 +1,3 @@
 GoToSchool
 ====================================================
-An open-source web based school management tool written in Go, ReactJS and webpack.
+An open-source web based school management tool written in Golang, ReactJS and Webpack.
