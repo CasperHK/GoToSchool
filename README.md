@@ -10,6 +10,7 @@ A completely open-source web based school management tool using in Golang, React
 
 ## Targets
  * [ ] Student Management System
+ * [ ] Google Calender Integration
  * [ ] Content Provider API System
  * [ ] Global Announcement System
  * [ ] Real-Time Communication System
@@ -23,7 +24,6 @@ A completely open-source web based school management tool using in Golang, React
  * ReactJS
  * Webpack
  * SQLite
- * 
 
 ## Language Support
  * [ ] English
