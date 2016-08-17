@@ -16,3 +16,5 @@ An completely open-source web based school management tool using in Golang, Reac
 ## Language Support
  * [ ] English
  * [ ] Triditional Chinese
+
+## Installation Guide
