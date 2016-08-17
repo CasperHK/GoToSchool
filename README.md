@@ -2,7 +2,7 @@ SchoolSimple
 ============
 
 ## Introduction
-An completely open-source web based school management tool using in Golang, ReactJS, SQLite and Webpack.
+A completely open-source web based school management tool using in Golang, ReactJS, SQLite and Webpack.
 
 ## Targets
  * [ ] Student Management System
@@ -24,6 +24,9 @@ An completely open-source web based school management tool using in Golang, Reac
 ## Language Support
  * [ ] English
  * [ ] Triditional Chinese
+ * [ ] Simplified Chinese
+ * [ ] Japanese
+ * [ ] Korean
 
 ## Requirements
 
