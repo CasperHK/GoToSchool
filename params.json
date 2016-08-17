@@ -1,0 +1,6 @@
+{
+  "name": "SchoolSimple",
+  "tagline": "A completely open-source web based school management tool for making you focus on your teaching work.",
+  "body": "## Introduction\r\nA completely open-source web based school management tool using in Golang, ReactJS, SQLite and Webpack.\r\n\r\n## Requirements\r\n\r\n## Installation Guide\r\n\r\n## Targets\r\n * [ ] Student Management System\r\n * [ ] Content Provider API System\r\n * [ ] Global Announcement System\r\n * [ ] Real-Time Communication System\r\n * [ ] E-Notice System\r\n * [ ] Plugin System\r\n * [ ] Client-side Android Application\r\n * [ ] Client-side iOS Application\r\n\r\n## Technologies\r\n * Go Language\r\n * ReactJS\r\n * Webpack\r\n * SQLite\r\n * \r\n\r\n## Language Support\r\n * [ ] English\r\n * [ ] Triditional Chinese\r\n * [ ] Simplified Chinese\r\n * [ ] Japanese\r\n * [ ] Korean\r\n\r\n## Copyright & License\r\nCopyright (c) 2016 Casper - Released under the GPL license.\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
