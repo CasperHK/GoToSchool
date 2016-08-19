@@ -21,12 +21,19 @@ A completely open-source web based school management tool using in Golang, React
 
 ## Technologies
  * Go Language
+   This is used to build the entire system.
+
  * ReactJS
+   This is used to build the client side web application.
+
  * Webpack
+   This is used to manage Javascript.
+
  * SQLite
+   This is used to hold the data used in the system.
 
 ## Language Support
- * [ ] English
+ * [x] English
  * [ ] Triditional Chinese
  * [ ] Simplified Chinese
  * [ ] Japanese
